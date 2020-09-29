@@ -32,4 +32,3 @@ time.sleep(1)
 
 print("\n Berhasil")
 print("\n confignya sukses")
-
